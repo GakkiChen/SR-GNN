@@ -14,4 +14,5 @@ cannot have multiple fathers/mothers, a child’s father is the spouse of its mo
 ## Model Architecture
 ![Alt text](./img/SRGNN.PNG?raw=true "SRGNN Model")
 Work progression can be found at: https://drive.google.com/drive/folders/1CIr-ZgA6lK8lWynhexCZnORFroZIh3vS?usp=sharing
-An illustration of the design concept is at: [Proposed SRGNN Model](https://github.com/GakkiChen/TWB-NN/blob/main/BNNS_NeurIPS20.pdf)
+
+An illustration of the design concept is at: [Proposed SRGNN Model](https://drive.google.com/file/d/1SojzV1r4eqeK__-GQwKAFCwCU1KlVpKg/view?usp=sharing)
